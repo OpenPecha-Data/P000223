@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །ཐེག་པ་ཐམས་ཅད་ཀྱི་མཆོག་རབ་གསང་བ་བླ་ན་མེད་པ་འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་དོན་རྣམ་པར་བཤད་པ་ཉི་མའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  sku: TSD-TSE-02
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: The Circle of the Sun:To Clarify the Most Excellent of All Vehicles, the Secret
+      and Unexcelled Luminous Vajra Essence
+    bo: ཐེག་པ་ཐམས་ཅད་ཀྱི་མཆོག་རབ་གསང་བ་བླ་ན་མེད་པ་འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་དོན་རྣམ་པར་བཤད་པ་ཉི་མའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Tsele Natsok Rangdrol Series–  Book 2
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༢
+  author:
+    en: Tsele Natsok Rangdrol
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-TSE-02
+  category:
+    en: Dzogchen
+    bo: རྫོགས་ཆེན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-TSE-02.epub
+  description:
+    en: ''
+    bo: ''
