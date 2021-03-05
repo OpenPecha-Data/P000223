@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000223
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཐེག་པ་ཐམས་ཅད་ཀྱི་མཆོག་རབ་གསང་བ་བླ་ན་མེད་པ་འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་དོན་རྣམ་པར་བཤད་པ་ཉི་མའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  sku: TSD-TSE-02
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: TSD-TSE-02
 web_metadata:
   title:
     en: The Circle of the Sun:To Clarify the Most Excellent of All Vehicles, the Secret
